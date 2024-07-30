@@ -1,5 +1,6 @@
 ## Hi there 👋 Olá 👋
 ## Sou br  I am Brazilian
+## Read the code!  Leia o codigo!
 
 <!--
 **Lhd123l07/Lhd123l07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
